@@ -1,0 +1,4 @@
+# Requirements.txt
+You will need:
+Visual Studio Code (Or your prefered coding editor)
+Python (of course)
