@@ -62,4 +62,14 @@ else:
     print(f"{Name}, the reason is that the code is a comment and will not produce any output")
 #Showscore
 print(f"Your final score is: {Score}")
+print("                    --------- ")
+print("                       3") 
+if Score == 3:
+    print(f"{Name}, you got a 100%! 🎉")     
+elif Score == 2:
+    print(f"{Name}, you got a 66%! 😎")
+elif Score == 1:
+    print(f"{Name}, you got a 33%! 😐") 
+else:
+    print(f"{Name}, you got a 0%! 😢")             
 #End of test, run the code to see your score!
