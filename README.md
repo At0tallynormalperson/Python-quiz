@@ -6,5 +6,5 @@ extract the file in file explorer, and open "Python test.py"
 # You will need
 Go to "Requirements.txt" to figure you what you will need
 # Usage
-Edit the stuff under "#Edit this line ONLY", "#Edit this line (Keep quotes)", and wherever it has "Answer3 = "[Answer]", "Answer4 = "[Answer]
+Type your name, then type the correct answers in the terminal! Thats all!
 # End-Of-README
